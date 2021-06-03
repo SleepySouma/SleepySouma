@@ -12,7 +12,7 @@
 ### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.java.com/">
-<img alt="souma" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
+<img alt="souma" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="40">
  </a>
  <a href="https://www.android.com/">
 <img alt="souma" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
@@ -31,6 +31,12 @@
   </a>
  <a href="https://git-scm.com/">
 <img alt="souma" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+  <a href="http://brackets.io/">
+<img alt="souma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/langfr-1024px-Brackets_Icon.svg.png" width="40">
+  </a>
+ <a href="https://www.clipstudio.net/en/">
+<img alt="souma" src="https://synth.agency/wp-content/uploads/2020/06/Apps-Clip-Studio-Paint-1024x1024.png" width="40">
   </a>
 </p>
 
