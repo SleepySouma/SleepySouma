@@ -4,7 +4,7 @@
 ## 
 
 <img alt="Souma" align="right" src="https://devstickers.com/assets/img/cat/programming-languages.png" width="300">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Soumaya LHARCH</b>, an Internet of Things Masters Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco)</i>. I'm always ready to do my best and learn new skills.
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Soumaya LHARCH</b>, an Internet of Things Masters Student at ENSIAS <i>(National School of Computer Science in Rabat, Morocco)</i>. I'm always ready to do my best and learn new skills.
 <br> My interests are all over the place, moving from one thing to the other, but I currently love to game casually.
 <br> Forever lacking sleep ✌️
 
